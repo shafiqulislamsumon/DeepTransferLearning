@@ -7,6 +7,11 @@ These pretrained models can be used to train on custom image dataset and add som
 
   - Custom image dataset of 4 categories
 
+# Models
+
+- **VGG16**
+- **InceptionV3**
+
 # Tools
 
 - **Jupyter Notebook**
