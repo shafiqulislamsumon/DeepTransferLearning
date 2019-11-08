@@ -13,5 +13,12 @@ These pretrained models can be used to train on custom image dataset and add som
 
 # Description
 - 2 image classification models are used for transfer learning, **VGG16** and **InceptionV3**
+- Sample image <br/>
+![](images/sampleimage.png)
 
+- InceptionV3 Train loss vs validation loss <br/>
+![](images/traintestloss.png)
+
+- InceptionV3 train accuracy vs validation accuracy <br/>
+![](images/traintestaccuracy.png)
 
